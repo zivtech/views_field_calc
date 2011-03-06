@@ -1,0 +1,5 @@
+name = Views Field Calc
+description = This is similar to Views Calc except it calculates based off fields instead of mysql queries.
+core = 6.x
+package = Views
+dependencies[] = views
